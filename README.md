@@ -5,7 +5,7 @@ Flying resources
 ## 1 Flight training Academy
 
 * [Flying Academy](https://flycorona.com/intro-flight/) in Corona. Corona Municipal Airport [KAJO](https://airnav.com/airport/KAJO) (Kilo Alpha Juliet Oscar)
-* [Riverside Flight Acedemy](https://riversideflightacademy.com/) in Riverside. Riverside Municipal Airport [KRAL](https://airnav.com/airport/KRAL) (Kilo Romeo Alpha Lima)
+* [Riverside Flight Academy](https://riversideflightacademy.com/) in Riverside. Riverside Municipal Airport [KRAL](https://airnav.com/airport/KRAL) (Kilo Romeo Alpha Lima)
 
 ## 2 VFRMAP
 
