@@ -20,6 +20,7 @@ Flying resources
 ### 3.3 Microsoft Simulator channel on YouTube
 
 * [Flight Simulator 2020 Flight LESSONS | HOW TO GET STARTED | Pilot Teaches How to FLY - Tutorial #1](https://www.youtube.com/watch?v=GvBG7pVhRBE)
+* [Flight Simulator 2020 Tutorial](https://www.youtube.com/playlist?list=PLbphwhPw2JuvwwsD-H3xoxmb4PUbCyZen) playlist
 
 ### 3.2 Flight channels on YouTube
 
