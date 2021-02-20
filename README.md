@@ -5,7 +5,8 @@ Flying resources
 ## 1 Flight training Academy
 
 * [Flying Academy](https://flycorona.com/intro-flight/) in Corona. Corona Municipal Airport [KAJO](https://airnav.com/airport/KAJO) (Kilo Alpha Juliet Oscar)
-* [Riverside Flight Academy](https://riversideflightacademy.com/) in Riverside. Riverside Municipal Airport [KRAL](https://airnav.com/airport/KRAL) (Kilo Romeo Alpha Lima)
+* [Riverside Flight Academy](https://riversideflightacademy.com/) in Riverside. Riverside Municipal Airport [KRAL](https://airnav.com/airport/KRAL) (Kilo Romeo Alpha Lima). Related YouTube video [link](https://www.youtube.com/watch?v=LvrPuxF-Oo0)
+
 
 ## 2 VFRMAP
 
@@ -29,6 +30,7 @@ Flying resources
 * [Over 50 and Learning To Fly!](https://www.youtube.com/channel/UCIa0vkfCnoOdPYriVC98COg)
 * [Pilot Training System](https://www.youtube.com/channel/UC99vrs8wqlfx3WU6I967fqA)
 * [Airplane Academy](https://www.youtube.com/channel/UCIrr0wpkGXyYGADTlK0xt_Q)
+* [dnlproductions CHINO](https://www.youtube.com/user/dnlproduction/videos)
 
 
 
