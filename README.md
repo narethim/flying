@@ -46,6 +46,12 @@ Flying resources
 
 * [Flying for Fun](https://www.aopa.org/training-and-safety/learn-to-fly/flying-for-fun)
 
+### Pilot shop
+
+* [Sporty's pilot shop](https://www.sportys.com/)
+* [mypilotstore.com](https://www.mypilotstore.com/mypilotstore/)
+* [Aviation Supplies & Academics - ASA](https://www.asa2fly.com/Default.aspx) - Aviation Supplies & Academics - ASA
+
 ### Web App
 
 * [SkyVector](https://skyvector.com/)
