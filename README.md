@@ -8,7 +8,6 @@ Flying resources
 * [Riverside Flight Academy](https://riversideflightacademy.com/) in Riverside. Riverside Municipal Airport [KRAL](https://airnav.com/airport/KRAL) (Kilo Romeo Alpha Lima). Related YouTube video [link](https://www.youtube.com/watch?v=LvrPuxF-Oo0)
 * [EFI Flight School](https://flyefi.com/) at French Valley Airport - [Private Pilot Certificate](https://flyefi.com/private-pilot-certificate)
 
-
 ## 2 VFRMAP
 
 * VFRMAP [Sectional Map](http://vfrmap.com/?type=vfrc&lat=33.898&lon=-117.602&zoom=10&api_key=763xxE1MJHyhr48DlAP2qQ)
@@ -17,7 +16,7 @@ Flying resources
 
 ### 3.1 Flight training on YouTube
 
-* [Introduction to Flying](https://www.youtube.com/playlist?list=PLdu8cMWoatm19rjgUl05Y8lSzlOUCTXp1) play list
+* [Introduction to Flying](https://www.youtube.com/playlist?list=PLdu8cMWoatm19rjgUl05Y8lSzlOUCTXp1) play list. [Page link](pilot-training-system.md)
 
 ### 3.3 Microsoft Simulator channel on YouTube
 
