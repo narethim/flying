@@ -8,7 +8,7 @@
 
 ## Private Pilot Tutorial
 
-| No. | Name        | Title          |  Note | comments |
+| No. | Name        | Title          |  Notes | comments |
 | --- | ----------- | -------------- | ----- | -------- |
 |  1  | Tutorial 1  | [Introduction to flying](https://www.youtube.com/watch?v=miXi7EU7msI&list=PLdu8cMWoatm19rjgUl05Y8lSzlOUCTXp1&index=1) |    | |
 |  2  | Tutorial 2  | [Aircraft Structure](https://www.youtube.com/watch?v=BfGVIbTgQzs&list=PLdu8cMWoatm19rjgUl05Y8lSzlOUCTXp1&index=2) |    | |
