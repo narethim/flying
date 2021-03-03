@@ -55,6 +55,13 @@ Flying resources
 
 * [SkyVector](https://skyvector.com/)
 
+### Aviation Web sites
+
+* [https://disciplesofflight.com/](https://disciplesofflight.com/)
+  * [Cessna 152: Defining the Dependable Trainer](https://disciplesofflight.com/cessna-152/)
+  * [Cessna 150: More Than the World’s Premiere Trainer](https://disciplesofflight.com/cessna-150-aircraft-profile/)
+  * [All About the Cessna 172 Skyhawk](https://disciplesofflight.com/cessna-172-skyhawk/)
+  
 ### Airports
 
 * [KAJO](https://www.aopa.org/destinations/airports/KAJO/details) - (KAJO) Corona Municipal Airport
