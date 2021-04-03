@@ -11,7 +11,7 @@
 | No. | Name        | Title          |  Notes | comments |
 | --- | ----------- | -------------- | ----- | -------- |
 |  1  | Part 1  | [Fundamentals](https://www.youtube.com/watch?v=sFH7BIvx05Q) |    | |
-|  2  | Part 2  | [Fundamentals](https://www.youtube.com/watch?v=sFH7BIvx05Q)  |    | |
+|  2  | Part 2  | [Fundamentals](https://www.youtube.com/watch?v=sFH7BIvx05Q)  | Straight and level flight, climb, glide, and turns  | |
 |  3  | Part 3  | [Ground handling](https://www.youtube.com/watch?v=aDbMHtglTOA&t=23s) |    | |
 |  4  | Part 4  | [Spin Stall](https://www.youtube.com/watch?v=3Io0pzMuWnI) |    | |
 |  5  | Part 5  | [Take off Landing](https://www.youtube.com/watch?v=Y2rwE5uhK1o) |    | |
@@ -48,7 +48,7 @@
 
 | No. | Name        | Title          |  Notes | comments |
 | --- | ----------- | -------------- | ----- | -------- |
-|  1  | Part 1  | [First Flight Part 1 - Primary Flight Training (1945)](https://www.youtube.com/watch?v=cooa6AOzGOU)  |    | |
-|  2  | Part 2  | [Primary Flight Training "First Flight" Part 2](https://www.youtube.com/watch?v=x3agFPZP2Dc)  |    | |
-|  3  | Part 3  | [Before You Fly - Primary Flight Training (1945)](https://www.youtube.com/watch?v=hyx7VG95GIg)  |    | |
-|  4  | Part 4  | [Primary Flight Training: Keep It Flying (1945)](https://www.youtube.com/watch?v=jLDM8jQFRvs&t=1s)  |    | |
+|  1  | Part 1  | [First Flight Part 1 - Primary Flight Training (1945)](https://www.youtube.com/watch?v=cooa6AOzGOU)  | Taxiing,  ailerons, elevators, rudder pedal | |
+|  2  | Part 2  | [Primary Flight Training "First Flight" Part 2](https://www.youtube.com/watch?v=x3agFPZP2Dc)  | Turn using aileron + rudder pedal, sharp and shallow turn | |
+|  3  | Part 3  | [Before You Fly - Primary Flight Training (1945)](https://www.youtube.com/watch?v=hyx7VG95GIg)  | Pre-flight inspection   | |
+|  4  | Part 4  | [Primary Flight Training: Keep It Flying (1945)](https://www.youtube.com/watch?v=jLDM8jQFRvs&t=1s)  | Stall warnings: heavy feeling, excessive back pressaure, vibration   | Slip, skid|
