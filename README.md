@@ -7,6 +7,7 @@ Flying resources
 * [Flying Academy](https://flycorona.com/intro-flight/) in Corona. Corona Municipal Airport [KAJO](https://airnav.com/airport/KAJO) (Kilo Alpha Juliet Oscar)
 * [Riverside Flight Academy](https://riversideflightacademy.com/) in Riverside. Riverside Municipal Airport [KRAL](https://airnav.com/airport/KRAL) (Kilo Romeo Alpha Lima). Related YouTube video [link](https://www.youtube.com/watch?v=LvrPuxF-Oo0)
 * [EFI Flight School](https://flyefi.com/) at French Valley Airport - [Private Pilot Certificate](https://flyefi.com/private-pilot-certificate)
+* [DuBois Aviation](https://duboisaviation.com) at Chino KCNO Airport - [Flight Training](https://duboisaviation.com/flight-training/)
 
 ## 2 VFRMAP
 
