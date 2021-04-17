@@ -46,6 +46,10 @@ Flying resources
 
 * [Flying for Fun](https://www.aopa.org/training-and-safety/learn-to-fly/flying-for-fun)
 
+### Aviation 101
+
+* [Canvas - Dashboard](https://canvas.instructure.com/)
+
 ### Pilot shop
 
 * [Sporty's pilot shop](https://www.sportys.com/)
