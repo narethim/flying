@@ -19,7 +19,7 @@ Flying resources
 
 * [Introduction to Flying](https://www.youtube.com/playlist?list=PLdu8cMWoatm19rjgUl05Y8lSzlOUCTXp1) play list. [Page link](pilot-training-system.md)
 * [Canvas - Dashboard](https://canvas.instructure.com/)
-* Private Pilot Ground School [Playlist](https://www.youtube.com/watch?v=CXPpCLsqUuo&list=PLmlSHatAzo4_BW-61C7g9lw-zXm9bO2F2)
+* [Private Pilot Ground School](https://www.youtube.com/watch?v=CXPpCLsqUuo&list=PLmlSHatAzo4_BW-61C7g9lw-zXm9bO2F2) playlist. [Page link](private-pilot-ground-school.md)
 
 ### 3.3 Microsoft Simulator channel on YouTube
 
