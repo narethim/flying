@@ -8,7 +8,7 @@ Flying resources
 * [Riverside Flight Academy](https://riversideflightacademy.com/) in Riverside. Riverside Municipal Airport [KRAL](https://airnav.com/airport/KRAL) (Kilo Romeo Alpha Lima). Related YouTube video [link](https://www.youtube.com/watch?v=LvrPuxF-Oo0)
 * [EFI Flight School](https://flyefi.com/) at French Valley Airport - [Private Pilot Certificate](https://flyefi.com/private-pilot-certificate)
 * [DuBois Aviation](https://duboisaviation.com) at Chino KCNO Airport - [Flight Training](https://duboisaviation.com/flight-training/)
-* [SoCal Aviation Inc.](https://duboisaviation.com) at Chino KCNO Airport - [Flight Training](https://socalaviationinc.com/flight-training-domestic/)
+* [SoCal Aviation Inc.](https://socalaviationinc.com/) at Chino KCNO Airport - [Flight Training](https://socalaviationinc.com/flight-training-domestic/)
   
 ## 2 VFRMAP
 
